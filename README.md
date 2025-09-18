@@ -7,7 +7,7 @@ For more information, see https://www.rockbox.org/wiki/IpodFlash.html and https:
 
 ### Credits
 Here are the people who helped make this possible by dumping:
- - [Alex](https://alex-s-camera.neocities.org/): A1040, A1099
+ - [Alex](https://alex-s-camera.neocities.org/): A1040, A1051 (January 2004), A1099
  - [Anonymous941](https://github.com/Anonymous941) (me): A1238
 
 ### Dumping guide
@@ -19,6 +19,7 @@ It can be uninstalled right after, and only "bootloader" and "rockbox" need to b
 ### Status
 Archived:
  - A1040 - iPod 3rd Generation
+ - A1051 - iPod Mini (1st generation)
  - A1099 - iPod 4th Generation (Photo)
  - A1238 - iPod 5th Generation (Video)
 
